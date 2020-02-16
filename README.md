@@ -1,3 +1,3 @@
 # subcountant
-Web App that tells how many subscribers a youtuber has made via Python
+Web App that tells how many subscribers a youtuber has made via Python-Flask
 
